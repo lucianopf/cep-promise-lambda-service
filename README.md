@@ -7,6 +7,14 @@ endpoint no [API Gateway](https://aws.amazon.com/api-gateway/).
 
 [Demo](https://twzye0bsdk.execute-api.us-east-1.amazonaws.com/dev/cep?number=05010000)
 
+## Features
+ 
+ * Altamente escalável por utilizar funções AWS Lambda.
+ * O nível gratuito do Lambda inclui 1 milhão de solicitações gratuitas por mês e 400.000 GB/segundo de tempo de computação por mês.
+ * Sempre retorna a resposta do serviço mais rápido, por ser concorrente.
+ * Sem cobranças por ociosidade, pague apenas pelo utilizado!
+ * Sempre atualizado em tempo-real por se conectar diretamente aos serviços dos Correios ou ViaCEP.
+
 ## Como utilizar
 
 ### Instalação
