@@ -1,6 +1,7 @@
 # Cep-promise Microservice
 
 Projeto construido com intuito de criar um micro serviço que resolva endereços de CEPs utilizando a biblioteca [cep-promise](https://github.com/filipedeschamps/cep-promise).
+
 O projeto consiste em um serviço na framework [Serverless](https://serverless.com/) que posteriormente fará o deploy para uma função [AWS Lambda](https://aws.amazon.com/lambda/details/) e irá criar um 
 endpoing no [API Gateway](https://aws.amazon.com/api-gateway/).
 
