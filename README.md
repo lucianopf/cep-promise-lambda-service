@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucianopf/cep-promise-lambda-service/master/content/cep-lambda.png">
+</p>
+
+
 # Cep-promise Microservice
 
 Projeto construido com intuito de criar um micro serviço que resolva endereços de CEPs utilizando a biblioteca [cep-promise](https://github.com/filipedeschamps/cep-promise).
